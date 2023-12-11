@@ -1,0 +1,23 @@
+.login-container {
+    min-height: 100% ;
+    display: flex;
+    
+    justify-content: center;
+    align-content: center;
+
+  }
+ form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+
+ }
+ h1{margin-left: auto;
+margin-right: auto;}
+button {
+    margin-left: auto;
+}
+ span{
+    color:rgb(153, 243, 153);
+ }
